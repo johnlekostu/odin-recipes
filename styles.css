@@ -1,0 +1,30 @@
+body {
+    background-color: hsl(36, 79%, 45%);
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+    margin: 50px 0px 100px 20px;
+    padding: 0;
+}
+
+img{height: 300px;
+    width: 300px; 
+}
+    p, ol, ul
+    {width: 600px;}
+    h1,
+    h2,
+    h3, .section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn{
+font-size: 20px;
+    background-color: hsl(36, 79%, 45%);
+    color: black;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+
+}
